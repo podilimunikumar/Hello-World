@@ -1,2 +1,2 @@
 # Hello-World
-this is hello world prject author by muni kumar
+this is hello world project author by podili muni kumar
